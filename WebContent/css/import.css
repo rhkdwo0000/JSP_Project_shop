@@ -1,0 +1,21 @@
+@charset "utf-8";
+/*css*/
+@import url(../css/reset.css);
+@import url(../css/global.css);
+@import url(../css/page.css);
+
+
+/*이미지 슬라이드 스크립트*/
+	
+/*js*/
+@import url(../js/jquery-1.11.1.min.js);
+@import url(../js/jquery-ui.js);
+
+	
+
+/*font*/
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:600');
+@import url('https://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+
+
+
